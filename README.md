@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator
+# cpu-scheduling-simulator
 
 Simple CPU scheduling simulator written in C.
 
